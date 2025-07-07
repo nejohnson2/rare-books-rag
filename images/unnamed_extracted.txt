@@ -1,0 +1,49 @@
+served over a period of 10 years, though ordinarily it ceases Or becomes
+imperceptible within 1 or 2 years. The rate of flow 1s greater for air
+than for water storage, greater for small than for large specimens, and
+for moderate stresses increases approximately as the applied stress. On
+removal of stress, some elastic recovery occurs. Concrete also shows
+creep under tensile stress, the early creep rate being greater than the
+flow rate under compression (Refs. 11 and 16).
+
+Under very gradually applied loading concrete exhibits an ultimate
+strength considerably less than that found under short-time loading;
+in certain compression tests it was found that increasing the time
+of testing from 1s to 4h decreased the unit stress at failure about
+30%, most of this decrease occurring between the extremely quick (1
+or 2s) and the conventional (several minutes) testing. This indicates
+that the compressive stress that concrete can sustain indefinitely
+may be considerably less than the ultimate strength as determined
+by a conventional test. On the other hand, the long-time imposition of
+a moderate loading appears to have no harmful effect; certain tests
+show that after 10 years of constant loading equal to one-fourth the
+ultimate strength, the compressive strength of concrete cylinders is
+practically the same and the modulus of elasticity is considerably
+greater than for similar cylinders that were not kept under load
+(Ref. 15).
+
+The modulus of rupture of plain concrete also decreases with the
+time of loading, and some tests indicate that the long-time strength
+in cross-breaking may be only 55 to 75% of the short-time strength
+(Ref. 12).
+
+Reference 17 is a compilation of 12 papers, each with extensive refer-
+ences, dealing with the effect of volumetric changes on concrete struc-
+tures. Design modifications to accommodate these volumetric changes
+are the main thrust of the papers.
+
+Wood. Wood also yields under sustained stress; the long-time (several
+years) strength is about 55% of the short-time (several minutes)
+strength in bending; for direct compression parallel to the grain the
+corresponding ratio is about 75% (Ref. 2).
+
+2.7 Criteria of Elastic Failure and of Rupture
+
+For the purpose of this discussion it is convenient to divide metals into
+two classes: (1) ductile metals, in which marked plastic deformation
+commences at a fairly definite stress (yield point, yield strength, or
+Possibly elastic limit) and which exhibit considerable ultimate elonga-
+“ion; and (2) brittle metals, for which the beginning of plastic deforma-
+tion is not clearly defined and which exhibit little ultimate elongation.
+Mild steel is typical of the first class, and cast iron is typical of the
+
