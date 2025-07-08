@@ -1,3 +1,7 @@
+"""
+This script demonstrates how to create a vector store using LangChain with a text file.
+It loads a text file, splits it into chunks, creates embeddings, and builds a FAISS vector store.
+"""
 from langchain.document_loaders import TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.embeddings import HuggingFaceEmbeddings
